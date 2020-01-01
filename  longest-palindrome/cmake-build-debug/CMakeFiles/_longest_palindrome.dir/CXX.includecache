@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lu.gao/Desktop/No. 9 Algo/HW1/ longest-palindrome/longest_palindrome.h
+iostream
+-
+
+/home/lu.gao/Desktop/No. 9 Algo/HW1/ longest-palindrome/main.cpp
+iostream
+-
+longest_palindrome.h
+/home/lu.gao/Desktop/No. 9 Algo/HW1/ longest-palindrome/longest_palindrome.h
+

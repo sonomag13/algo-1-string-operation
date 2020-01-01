@@ -1,0 +1,3 @@
+/home/lu.gao/Desktop/No. 9 Algo/HW1/find-target-string/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lu.gao/Desktop/No. 9 Algo/HW1/find-target-string/cmake-build-debug/CMakeFiles/find_target_string.dir
+/home/lu.gao/Desktop/No. 9 Algo/HW1/find-target-string/cmake-build-debug/CMakeFiles/edit_cache.dir

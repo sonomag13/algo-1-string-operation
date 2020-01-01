@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lu.gao/Desktop/No. 9 Algo/HW1/find-target-string/TargetSearching.h
+
+/home/lu.gao/Desktop/No. 9 Algo/HW1/find-target-string/main.cpp
+iostream
+-
+TargetSearching.h
+/home/lu.gao/Desktop/No. 9 Algo/HW1/find-target-string/TargetSearching.h
+
