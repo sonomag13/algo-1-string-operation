@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/_longest_palindrome.dir/main.cpp.o  -o _longest_palindrome 

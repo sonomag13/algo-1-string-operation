@@ -1,3 +1,0 @@
-/home/lu.gao/Desktop/No. 9 Algo/HW1/ longest-palindrome/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/lu.gao/Desktop/No. 9 Algo/HW1/ longest-palindrome/cmake-build-debug/CMakeFiles/_longest_palindrome.dir
-/home/lu.gao/Desktop/No. 9 Algo/HW1/ longest-palindrome/cmake-build-debug/CMakeFiles/edit_cache.dir
